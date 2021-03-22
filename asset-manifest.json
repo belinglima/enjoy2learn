@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/enjoy2learn/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/enjoy2learn/static/js/main.59d616f9.chunk.js",
+    "main.js.map": "/enjoy2learn/static/js/main.59d616f9.chunk.js.map",
+    "runtime-main.js": "/enjoy2learn/static/js/runtime-main.58811b34.js",
+    "runtime-main.js.map": "/enjoy2learn/static/js/runtime-main.58811b34.js.map",
+    "static/js/2.618b00cb.chunk.js": "/enjoy2learn/static/js/2.618b00cb.chunk.js",
+    "static/js/2.618b00cb.chunk.js.map": "/enjoy2learn/static/js/2.618b00cb.chunk.js.map",
+    "index.html": "/enjoy2learn/index.html",
+    "precache-manifest.f216985e9107f3c6bf865ed624fc9bb0.js": "/enjoy2learn/precache-manifest.f216985e9107f3c6bf865ed624fc9bb0.js",
+    "service-worker.js": "/enjoy2learn/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/enjoy2learn/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.618b00cb.chunk.js.LICENSE.txt": "/enjoy2learn/static/js/2.618b00cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58811b34.js",
+    "static/js/2.618b00cb.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.59d616f9.chunk.js"
+  ]
+}
